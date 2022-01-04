@@ -2,7 +2,7 @@
 Codes for growth mindset and working memory manuscript
 ## Checklist for Data Analysis Conducted in the manuscript
 Lead author(s): Yuyao Zhao
-Created by Yuyao Zhao on January 4th, 2022
+<br /> Created by Yuyao Zhao on January 4th, 2022
 ## Summary and Requirements:
 This repository contains Matlab, R scriptes needed to produce key results in the manuscript including figures, behavioral and fMRI analysis.
 ## Test Environment(s):
