@@ -22,8 +22,10 @@ MATLAB version: R2020a, Operating System: windows 10
 - second level (multiple regression)
 <br /> script: scr_2lv_multireg
 Figure2. A plotter by Surf Ice and MRIcroGL
+- gPPI analysis (Figure 3)
+<br /> script: folder gPPI
 - ROI extraction
 <br /> script: scr_extrmean_nroi
-- mediation analysis (Figure 3,4 & Supplementary material figure1,4,5)
+- mediation analysis (Figure 4)
 <br /> script: mediation
-<br /> Figure. 3C & 4C plotted by MRIcroGL & Adobe Illustrator
+
