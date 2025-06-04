@@ -1,5 +1,5 @@
 % written by l.hao (ver_19.09.11)
-% hao1ei@foxmail.com g
+% edited by Y.Zhao for Growth Mindset project
 % qinlab.BNU
 restoredefaultpath
 clear;
@@ -12,10 +12,10 @@ ppl_mode       = 'session';
 ppl_mode_manag = 'session';
 
 % Set path
-spm_dir    = 'C:\Program Files\MATLAB\R2020a\toolbox\spm12';
-psom_dir   = 'C:\Program Files\MATLAB\R2020a\toolbox\psom';
-deriv_dir  = 'D:\deriv';
-script_dir = 'C:\Users\lenovo\Desktop\MS_project\codes_origin';
+spm_dir    = '...\MATLAB\R2020a\toolbox\spm12';
+psom_dir   = '...\MATLAB\R2020a\toolbox\psom';
+deriv_dir  = '...';
+script_dir = '...';
 
 % Basic ponfigure
 tim_tr      = 2;
