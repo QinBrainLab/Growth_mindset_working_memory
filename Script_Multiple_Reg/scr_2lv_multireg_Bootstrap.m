@@ -1,15 +1,15 @@
 % written by l.hao (ver_18.09.07)
-% hao1ei@foxmail.com
+% edited by Y.Zhao for Neurotransmitter Analysis
 % qinlab.BNU
 clear;
 clc;
 
 %% set up
-%spm_dir    = 'C:\Program Files\MATLAB\R2020a\toolbox\spm12';
-firlv_dir  = '/Volumes/TOSHIBA/desktop_backup/MS_project/deriv/firstlevel';
-seclv_dir  = '/Volumes/TOSHIBA/desktop_backup/deriv/2nd_level';
-script_dir = '/Volumes/TOSHIBA/desktop_backup/MS_TP1_codes/brain/multiple_reg';
-var_list   = '/Volumes/TOSHIBA/desktop_backup/MS_TP1_codes/brain/multiple_reg/list_multireg_covar_match_child_t1_nb_ms_hddm_ex_age_gender_306.txt';
+%spm_dir    = '...';
+firlv_dir  = '.../deriv/firstlevel';
+seclv_dir  = '.../deriv/2nd_level';
+script_dir = '.../brain/multiple_reg';
+var_list   = '.../brain/multiple_reg/list_multireg_covar_match_child_t1_nb_ms_hddm_ex_age_gender_306.txt';
 
 task_name  = 'nb';
 tconweig   = [0 1 -1 0 0];
