@@ -7,11 +7,12 @@ Lead authors: Yuyao Zhao & Junjie Cui
 This repository contains MATLAB and R scripts needed to produce key results in the manuscript, including figures, behavioral, and fMRI analysis.
 ## Test Environment(s):
 MATLAB version: R2020a, Operating System: Windows 10
-## Statistical tests behavioral and imaging data(Fig. 1 & 2-5 mediation models)
+## Statistical tests and behavioral analysis (Fig. 1 & 2-5 mediation models)
 - Script_Stats: main behavioral analysis & figures
 <br /> Behavioral analysis of longitudinal data: behav_longi.R
 <br /> Cross-sectional and longitudinal statistical tests of imaging data: brain_activity.R & brain_longi.R
 <br /> Compare HDDM models: compare_model.R
+- Script_HDDM: script and data used for HDDM
 ## fMRI Analysis (Fig. 2-5)
 - Script_QC: imaging data quality control
 <br /> script: aroma_outliers
